@@ -1,6 +1,6 @@
 # mern-bradcopy
 
 
-mern stack copy from youtube
+mern stack copy from youtube both REST API and GraphQL API
 
-fullstack rest and graphql api
+
