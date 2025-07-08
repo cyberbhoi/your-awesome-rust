@@ -1,6 +1,6 @@
-# mern-bradcopy
+# HTML + TailwindCSS Starter Templates 
 
 
-mern stack copy from youtube both REST API and GraphQL API
+List of HTML templates for quick development 
 
 
