@@ -1,6 +1,3 @@
-# HTML + TailwindCSS Starter Templates 
+# Your Awesome Rust
 
-
-List of HTML templates for quick development 
-
-
+Collection of all Rust resources for learning and building software.
